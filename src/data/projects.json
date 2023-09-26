@@ -1,0 +1,27 @@
+[
+    {
+      "title": "FlashRead",
+      "imageSrc": "projects/FlashRead.png",
+      "description": "Flashread is an AI powered webApp that is able to summarize articles from URLs.",
+      "skills": ["React", "Redux", "GPT-4 API", "Node"],
+      "demo": "https://flashread.netlify.app/",
+      "source": "https://github.com/fredjuma007/FlashRead"
+    },
+    {
+      "title": "TshirtMatrix",
+      "imageSrc": "projects/tshirtmatrix.jpg",
+      "description": "For tshirt designers. This websites lets clients design there own tshirt look.(FOR SALE)",
+      "skills": ["React", "ThreeJs", "Node"],
+      "demo": "https://t-shirtmatrix.netlify.app/",
+      "source": "https://github.com/fredjuma007/T-ShirtMatrix"
+    },
+    {
+      "title": "Project Coming Soon",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]
+  
