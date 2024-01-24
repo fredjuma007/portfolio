@@ -16,10 +16,10 @@
       "source": "https://github.com/fredjuma007/T-ShirtMatrix"
     },
     {
-      "title": "Project Coming Soon",
+      "title": "MYTYM",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
+      "description": "This is a simple website that one can use to track their habbits.",
+      "skills": ["Javascript", "HTML", "CSS"],
       "demo": "https://www.example.com",
       "source": "https://www.github.com"
     }
