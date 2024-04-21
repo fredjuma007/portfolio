@@ -7,6 +7,7 @@
       "demo": "https://flashread.netlify.app/",
       "source": "https://github.com/fredjuma007/FlashRead"
     },
+
     {
       "title": "TshirtMatrix",
       "imageSrc": "projects/tshirtmatrix.jpg",
@@ -15,13 +16,23 @@
       "demo": "https://t-shirtmatrix.netlify.app/",
       "source": "https://github.com/fredjuma007/T-ShirtMatrix"
     },
+
+    {
+      "title": "DevPeerFinder",
+      "imageSrc": "projects/DevFinder.png",
+      "description": "A Social website for developers to connect and help each other out.",
+      "skills": ["NextJs", "TypeScript", "TailwindCss", "Node", "PostgreSQL"],
+      "demo": "https://devpeerfinder.up.railway.app/",
+      "source": "https://github.com/fredjuma007/dev_peer_finder"
+    },
+
     {
       "title": "MYTYM",
       "imageSrc": "projects/project.png",
       "description": "This is a simple website that one can use to track their habbits.",
       "skills": ["Javascript", "HTML", "CSS"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "demo": "https://mytym.netlify.app/",
+      "source": "https://github.com/fredjuma007/MYTYM/"
     }
   ]
   
