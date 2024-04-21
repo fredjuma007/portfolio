@@ -40,7 +40,7 @@ export const About = () => {
               <h3>UI and Logo Designer</h3>
               <p>
               love my portfolio interfafe? i make beautiful UI and logo. 
-              I'm just a tex/email or call away
+              I'm just a text/email or call away
               </p>
             </div>
           </li>

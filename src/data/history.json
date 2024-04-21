@@ -1,10 +1,10 @@
 [
     {
-        "role": "Software Development Certificate",
+        "role": "Software Development",
         "organisation": "Institute of Software Technologies",
         "startDate": "Sept, 2022",
         "endDate": "January, 2023",
-        "experiences": ["Earned a certificate in Web Development", "Learned HTML, CSS, Javascript, php, MySQL"],
+        "experiences": ["Earned a certification in Web Development", "Learned HTML, CSS, Javascript, php, MySQL"],
         "imageSrc": "history/ist.png"
       },
 
@@ -13,7 +13,7 @@
         "organisation": "ALX Africa",
         "startDate": "August, 2022",
         "endDate": "September, 2023",
-        "experiences": ["Earned a certificate in Web Development", "Learned C, Python, React, NGINX, Docker"],
+        "experiences": ["Earned a certification in Software Enginnering", "Learned C, Python, React, NGINX, Docker"],
         "imageSrc": "history/alxafrica_logo.jpeg"
       }
     
