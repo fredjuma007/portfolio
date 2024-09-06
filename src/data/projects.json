@@ -18,10 +18,19 @@
     },
 
     {
+      "title": "TECHCAVE",
+      "imageSrc": "projects/logo.png",
+      "description": "A digital marketing agency website that is specialised in web development and logo design. My second portfolio.",
+      "skills": ["NextJs", "TypeScript", "TailwindCSS", "Node"],
+      "demo": "https://techcave.vercel.app/",
+      "source": "https://github.com/fredjuma007/tech_cave"
+    },
+
+    {
       "title": "DevPeerFinder",
       "imageSrc": "projects/DevFinder.png",
       "description": "A Social website for developers to connect and help each other out.",
-      "skills": ["NextJs", "TypeScript", "TailwindCss", "Node", "PostgreSQL"],
+      "skills": ["NextJs", "TypeScript", "TailwindCSS", "Node", "PostgreSQL"],
       "demo": "https://devpeerfinder.up.railway.app/",
       "source": "https://github.com/fredjuma007/dev_peer_finder"
     },

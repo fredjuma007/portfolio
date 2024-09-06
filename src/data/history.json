@@ -15,6 +15,14 @@
         "endDate": "September, 2023",
         "experiences": ["Earned a certification in Software Enginnering", "Learned C, Python, React, NGINX, Docker"],
         "imageSrc": "history/alxafrica_logo.jpeg"
+      },
+
+      {
+        "role": "Software Engineering bootcamp",
+        "organisation": "Power Learn Project Africa",
+        "startDate": "August, 2024",
+        "endDate": "Current",
+        "experiences": ["Learning Python, Dart and Flutter"],
+        "imageSrc": "history/plp.jpg"
       }
-    
   ]
