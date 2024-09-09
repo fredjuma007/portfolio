@@ -6,9 +6,8 @@
 This is my personal portfolio website that contains all the information about me, my projects, and tech stack. it also contaiins links to my social media profiles and resume.
 
 ## sneak peek of the website
-PROJECTS TO CHECK OUT ⬇️⬇️⬇️
+Projects to check out and my tech-stack ⬇️⬇️⬇️
 ![Alt Text](assets/screenshots/projects.png)
-MY STACK ⬇️⬇️⬇️
 ![Alt Text](assets/screenshots/experience.png)
 
 ## technologies used
