@@ -19,4 +19,4 @@ Projects to check out and my tech-stack ⬇️⬇️⬇️
 
 feel free to contact me for any queries, contributions or collaborations ✨
 ```
-link to the website: [portfolio](https://jumaportfolio.netlify.app/)
+link to the website: https://jumaportfolio.netlify.app/
