@@ -9,6 +9,15 @@
     },
 
     {
+      "title": "DocFlow",
+      "imageSrc": "projects/docflow.png",
+      "description": "DocFlow is a text editor that is focused on collaboration and real-time editing. It is a clone of Google Docs.",
+      "skills": ["React", "ThreeJs", "Node"],
+      "demo": "https://docflow-editor.vercel.app/",
+      "source": "https://github.com/fredjuma007/docflow"
+    },
+
+    {
       "title": "TshirtMatrix",
       "imageSrc": "projects/tshirtmatrix.jpg",
       "description": "For tshirt designers. This websites lets clients design there own tshirt look.(FOR SALE)",
