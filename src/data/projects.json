@@ -18,6 +18,15 @@
     },
 
     {
+      "title": "Reading Circle",
+      "imageSrc": "projects/reading_circle.jpeg",
+      "description": "For tshirt designers. This websites lets clients design there own tshirt look.(FOR SALE)",
+      "skills": ["NextJs", "TypeScript", "TailwindCSS, Wix CMS"],
+      "demo": "https://readingcircle.vercel.app/",
+      "source": "https://github.com/fredjuma007/our_book_club"
+    },
+    
+    {
       "title": "TshirtMatrix",
       "imageSrc": "projects/tshirtmatrix.jpg",
       "description": "For tshirt designers. This websites lets clients design there own tshirt look.(FOR SALE)",
