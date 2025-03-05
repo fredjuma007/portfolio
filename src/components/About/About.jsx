@@ -39,7 +39,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>UI and Logo Designer</h3>
               <p>
-              love my portfolio interfafe? i make beautiful UI and logo. 
+              love my portfolio interface? I make beautiful UI and logo. 
               I'm just a text/email or call away
               </p>
             </div>
