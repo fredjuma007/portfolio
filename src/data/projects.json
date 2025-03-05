@@ -21,7 +21,7 @@
       "title": "Reading Circle",
       "imageSrc": "projects/reading_circle.jpeg",
       "description": "A book club website that is able to track the books that the club has read and let members rate and review the books.",
-      "skills": ["NextJs", "TypeScript", "TailwindCSS, Wix CMS"],
+      "skills": ["NextJs", "TypeScript", "TailwindCSS", "WIX CMS"],
       "demo": "https://readingcircle.vercel.app/",
       "source": "https://github.com/fredjuma007/our_book_club"
     },
